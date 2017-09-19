@@ -31,7 +31,7 @@ Public Class Form2
             MessageBox.Show("You're not connected to the internet. Please connect to the internet.")
             Close()
         Catch ex As Exception
-            MessageBox.Show("Oops, TheLBall GUI crashed! Better report it to TheLBall then!")
+            MessageBox.Show("Oops, TheLBall GUI hit a crap! Better report it to TheLBall then!")
             Close()
         End Try
     End Sub
